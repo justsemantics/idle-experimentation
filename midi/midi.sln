@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midi", "midi.csproj", "{7F72916A-33C3-3D75-5F4E-1650F67A0E30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "midi.Editor", "midi.Editor.csproj", "{81F132E4-7725-9A17-5FD9-60E05ACDF0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F72916A-33C3-3D75-5F4E-1650F67A0E30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F72916A-33C3-3D75-5F4E-1650F67A0E30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F72916A-33C3-3D75-5F4E-1650F67A0E30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F72916A-33C3-3D75-5F4E-1650F67A0E30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F132E4-7725-9A17-5FD9-60E05ACDF0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F132E4-7725-9A17-5FD9-60E05ACDF0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F132E4-7725-9A17-5FD9-60E05ACDF0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F132E4-7725-9A17-5FD9-60E05ACDF0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
